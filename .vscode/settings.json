@@ -1,6 +1,6 @@
 {
   // Auto Save when focus changes (allows formatOnSave to work)
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "onFocusChange",
 
   // Editor settings
   "editor.formatOnSave": true,
